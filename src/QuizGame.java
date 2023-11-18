@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// Class representing a question with multiple choices and the correct answer index
 public class QuizGame {
     public static void main(String[] args) {
         List<Question> questions = new ArrayList<>(); // List of questions to be asked to the user
